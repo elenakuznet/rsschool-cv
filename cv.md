@@ -17,6 +17,8 @@
  
  Im  at the beggining of learning Front-end Development.
  
+ 
+ 
  # My strengths:
 
 - Quick learner
