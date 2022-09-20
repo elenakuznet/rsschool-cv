@@ -12,3 +12,37 @@
 
 
 
+# About Me
+ 
+ Im  at the beggining of learning Front-end Development.
+ 
+ 
+ 
+# My strengths:
+
+- Quick learner
+
+
+- Full immersion in the essence of the problems
+
+
+- Diligence
+
+
+- Team playing
+
+
+
+
+# Skills
+
+1.HTML
+
+
+2.CSS (Bootstrap, SASS/SCSS, BEM)
+
+
+3.JavaScript 
+
+
+
