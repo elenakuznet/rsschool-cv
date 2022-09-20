@@ -10,6 +10,8 @@
 
 - GitHub: elenakuznet
 
+- Telegram: @kuzn_elena
+
 
 
 # About Me
