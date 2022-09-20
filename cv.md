@@ -45,4 +45,34 @@
 3.JavaScript 
 
 
+4.Git/GitHub
+
+
+
+  
+# Code Examples
+```
+function multiply(a, b){
+ return a * b;
+}
+```
+
+
+# Education
+
+RS-school currently
+
+Stepik  (JavaScript)
+
+Udemy
+
+
+
+# Languages
+
+Russian - native speaker
+
+English - Intermediate.
+
+
 
