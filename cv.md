@@ -10,7 +10,6 @@
 
 - GitHub: elenakuznet
 
-- Telegram: @kuzn_elena
 
 
 
@@ -20,7 +19,7 @@
  
  
  
-# My strengths:
+ # My strengths:
 
 - Quick learner
 
@@ -37,7 +36,6 @@
 
 
 # Skills
-
 1.HTML
 
 
@@ -47,9 +45,9 @@
 3.JavaScript 
 
 
+
+
 4.Git/GitHub
-
-
 
   
 # Code Examples
@@ -75,6 +73,3 @@ Udemy
 Russian - native speaker
 
 English - Intermediate.
-
-
-
